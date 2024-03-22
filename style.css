@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.bg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background-image: url('5192479.jpg');
+    background-size: cover;
+}
+
+h1{
+    color: floralwhite;
+    font-size: xx-large;
+    font-weight: 800;
+    text-align: center;
+    background-blend-mode: difference;
+}
